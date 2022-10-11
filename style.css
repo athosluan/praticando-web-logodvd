@@ -1,0 +1,17 @@
+body {
+    background-color: darkslategrey;
+}
+
+.dvd {
+    box-sizing: border-box;
+    width: 100px;
+    position: absolute;
+    border-radius: 5px;
+    bottom: 90px;
+    left: 450px;
+}
+
+button {
+    padding: 10px;
+    width: 90px;
+}
